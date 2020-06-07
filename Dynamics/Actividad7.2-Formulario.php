@@ -1,5 +1,5 @@
 <?php
-    echo"<link rel='stylesheet' href='./Statics/Actividad7.2-Formulario.css'>";
+    echo"<link rel='stylesheet' href='../Statics/Actividad7.2-Formulario.css'>";
     echo"<div class='grid'>
         <div></div>
         <div>";
