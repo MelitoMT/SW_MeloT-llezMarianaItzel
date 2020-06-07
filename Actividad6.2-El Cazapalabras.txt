@@ -1,0 +1,6 @@
+(?<![A-ZÁÉÍÓÚÑáéíóúña-z])[R-r]egex(?![A-ZÁÉÍÓÚÑáéíóúña-z])
+(Regex)saurio Ardonyx
+[regex]-1914.
+The "regexsaurio" (meaning "regex" "saurus"), named in 1914 is a genus of the big creature of the first half of the Jurassic. Distinctive features include a big ringed tail with tiny irregular polygons on it and large thumb spikes which are believed, were for self-deffense.
+Regex was named after the geologist Regex,Paul, but the man who discovered it actually was his brother Hennam Regex. 
+The scientific knowledge about the regex had evolved in several ways during the last few decades due to the new information obtained from what they call the RegexFossils.
