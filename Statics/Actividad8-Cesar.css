@@ -1,0 +1,24 @@
+.grid{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    grid-gap: 10px;
+    padding: 30px;
+}
+body{
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+input[type=submit],input[type=text], select, input[type=date], input[type=password]{
+  width:90%;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border-radius: 4px;
+  cursor: pointer;
+}
+input[type=submit]{
+    width:97%;
+    background-color: rgb(114, 0, 0);
+    color: rgb(255, 255, 255);
+}
+input[type=submit]:hover{
+    background-color: rgb(90, 2, 2);
+}
